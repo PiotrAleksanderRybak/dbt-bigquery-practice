@@ -1,15 +1,14 @@
-Welcome to your new dbt project!
+# dbt-bigquery-practice
 
-### Using the starter project
+Local dbt + BigQuery learning project.
 
-Try running the following commands:
-- dbt run
-- dbt test
+## Stack
+- dbt Core
+- BigQuery
+- VS Code
+- GitHub
 
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+## Project structure
+- seeds
+- staging models
+- marts models
