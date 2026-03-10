@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: ecommerce
+    database: dbt-practice-piotr
+    schema: dbt_practice
+    tables:
+      - name: raw_customers
+      - name: raw_orders
